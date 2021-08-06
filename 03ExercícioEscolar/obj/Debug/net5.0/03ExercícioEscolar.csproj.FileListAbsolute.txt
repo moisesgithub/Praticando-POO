@@ -1,0 +1,16 @@
+C:\DEV\POO\03ExercícioEscolar\bin\Debug\net5.0\03ExercícioEscolar.exe
+C:\DEV\POO\03ExercícioEscolar\bin\Debug\net5.0\03ExercícioEscolar.deps.json
+C:\DEV\POO\03ExercícioEscolar\bin\Debug\net5.0\03ExercícioEscolar.runtimeconfig.json
+C:\DEV\POO\03ExercícioEscolar\bin\Debug\net5.0\03ExercícioEscolar.runtimeconfig.dev.json
+C:\DEV\POO\03ExercícioEscolar\bin\Debug\net5.0\03ExercícioEscolar.dll
+C:\DEV\POO\03ExercícioEscolar\bin\Debug\net5.0\ref\03ExercícioEscolar.dll
+C:\DEV\POO\03ExercícioEscolar\bin\Debug\net5.0\03ExercícioEscolar.pdb
+C:\DEV\POO\03ExercícioEscolar\obj\Debug\net5.0\03ExercícioEscolar.csproj.AssemblyReference.cache
+C:\DEV\POO\03ExercícioEscolar\obj\Debug\net5.0\03ExercícioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\POO\03ExercícioEscolar\obj\Debug\net5.0\03ExercícioEscolar.AssemblyInfoInputs.cache
+C:\DEV\POO\03ExercícioEscolar\obj\Debug\net5.0\03ExercícioEscolar.AssemblyInfo.cs
+C:\DEV\POO\03ExercícioEscolar\obj\Debug\net5.0\03ExercícioEscolar.csproj.CoreCompileInputs.cache
+C:\DEV\POO\03ExercícioEscolar\obj\Debug\net5.0\03ExercícioEscolar.dll
+C:\DEV\POO\03ExercícioEscolar\obj\Debug\net5.0\ref\03ExercícioEscolar.dll
+C:\DEV\POO\03ExercícioEscolar\obj\Debug\net5.0\03ExercícioEscolar.pdb
+C:\DEV\POO\03ExercícioEscolar\obj\Debug\net5.0\03ExercícioEscolar.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\DEV\POO\02Métodos\obj\Debug\net5.0\02Métodos.csproj.AssemblyReference.cache
+C:\DEV\POO\02Métodos\obj\Debug\net5.0\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\POO\02Métodos\obj\Debug\net5.0\02Métodos.AssemblyInfoInputs.cache
+C:\DEV\POO\02Métodos\obj\Debug\net5.0\02Métodos.AssemblyInfo.cs
+C:\DEV\POO\02Métodos\obj\Debug\net5.0\02Métodos.csproj.CoreCompileInputs.cache
+C:\DEV\POO\02Métodos\bin\Debug\net5.0\02Métodos.exe
+C:\DEV\POO\02Métodos\bin\Debug\net5.0\02Métodos.deps.json
+C:\DEV\POO\02Métodos\bin\Debug\net5.0\02Métodos.runtimeconfig.json
+C:\DEV\POO\02Métodos\bin\Debug\net5.0\02Métodos.runtimeconfig.dev.json
+C:\DEV\POO\02Métodos\bin\Debug\net5.0\02Métodos.dll
+C:\DEV\POO\02Métodos\bin\Debug\net5.0\ref\02Métodos.dll
+C:\DEV\POO\02Métodos\bin\Debug\net5.0\02Métodos.pdb
+C:\DEV\POO\02Métodos\obj\Debug\net5.0\02Métodos.dll
+C:\DEV\POO\02Métodos\obj\Debug\net5.0\ref\02Métodos.dll
+C:\DEV\POO\02Métodos\obj\Debug\net5.0\02Métodos.pdb
+C:\DEV\POO\02Métodos\obj\Debug\net5.0\02Métodos.genruntimeconfig.cache
